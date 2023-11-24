@@ -1,0 +1,44 @@
+body{
+    background-size: contain;
+}
+b{
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#start{
+    font-family:Arial ;
+}
+.heading{
+    width:100%;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading h3{
+    display:inline;
+}
+.heading button{
+    float:right;
+    border:1px solid white;
+}
+
+
+#start,#status{
+    font-size: 22px;
+}
+
+.modal-dialog{
+   width:90%;
+}
+h4{
+    background-color: white;
+    line-height:2;
+    margin-top:0px;
+}
+li{
+    text-align: left;
+    color: blue;
+
+}
+
